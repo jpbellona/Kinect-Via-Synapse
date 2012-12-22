@@ -1,0 +1,20 @@
+CHANGE LOG
+----------------------------------------
+v.1.1.3
+----------------------------------------
+	- Added OSC output port 57120 for use with SuperCollider.
+
+----------------------------------------
+v.1.1.2
+----------------------------------------
+	- Changed OSC output sends to a single output port. Placed on top level of interface.
+	- Added Data View for X, Y, and Z coordinates on the Vitruvian man. Tab view clickable by user.
+	- Added OSC output message routing for all fifteen joints to enable user work flow.  
+	- Added Two tabs on front panel.  OSC output message routing is located on front screen at top under OSC tab. Viewing user data is available with Data tab.
+	- Changed depth mode selection menu to 'human readable' values.
+	- Changed tracking mode selection menu to 'human readable' values. (old: 0,1,2)
+
+----------------------------------------
+v.1.1.1
+----------------------------------------
+	- Fixed an error inside Max relating to joint parsing.
