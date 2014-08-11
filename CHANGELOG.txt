@@ -1,5 +1,9 @@
 CHANGE LOG
 ----------------------------------------
+v.1.1.4
+----------------------------------------
+	- Added OSC output port 7110 for use with Animata.
+----------------------------------------
 v.1.1.3
 ----------------------------------------
 	- Added OSC output port 57120 for use with SuperCollider.
