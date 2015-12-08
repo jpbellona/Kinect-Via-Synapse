@@ -1,8 +1,24 @@
 CHANGE LOG
 ----------------------------------------
+v.1.2.1
+----------------------------------------
+	- OSC forwarding on/off switch.
+	- OSC-route invalid message pattern should be fixed (may have to do with CNMAT global install?)
+
+----------------------------------------
+v.1.2
+----------------------------------------
+	- Added Vitruvian interface for tracking modes on individual joints
+	- Added Vitruvian interface for joint triggers settings and data.
+	- Removed oddly formatted controls for individual joint settings
+	- Moved OSC output settings to the Vitruvian interface tab for OSC.
+	- Hiding misc. Global control settings as while these work, they don't set the numbers in the respective Vitruvian individual control interface. On the TODO for 1.2.1.
+
+----------------------------------------
 v.1.1.4
 ----------------------------------------
 	- Added OSC output port 7110 for use with Animata.
+
 ----------------------------------------
 v.1.1.3
 ----------------------------------------
